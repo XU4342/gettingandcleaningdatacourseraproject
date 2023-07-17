@@ -1,3 +1,4 @@
+##Getting and Cleaning Data Project
 Tidy Data - UCI Human Activity Recognition Using Smartphones
 
 In this repo you will find:
